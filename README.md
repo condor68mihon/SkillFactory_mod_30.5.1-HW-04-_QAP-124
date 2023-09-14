@@ -14,13 +14,21 @@
 Требуется установить дополнительные модули:
 
 -import time,
+
 -import pytest,
+
 -from selenium.webdriver.support import expected_conditions as EC,
+
 -from selenium.webdriver.common.by import By,
+
 -from selenium import webdriver,
+
 -from selenium.webdriver.chrome.service import Service as ChromeService,
+
 -from webdriver_manager.chrome import ChromeDriverManager,
+
 -from selenium.webdriver.support.ui import WebDriverWait,
+
 -from settings import valid_password, valid_email,
 
 
